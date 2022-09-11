@@ -1,0 +1,32 @@
+V2V ratio: 0.988161
+V2R ratio: 0.954385
+Data cleared (cleanup_all): 17525
+********************** vehicledata/750vehicle, rsucreation/50rsu.txt, period=25 **********************
+Averages: 
+	Item 0: 176.799
+	Item 1: 232.455
+Required data: 
+	Item 0: 132600
+	Item 1: 221000
+Remaining data: 
+	Item 0: 54455
+	Item 1: 118255
+Requests: 
+	Item 0: Number of requests: 442, Satisfied requests: 44
+	Item 1: Number of requests: 442, Satisfied requests: 23
+Data by source: 
+	Item 0- V2V Transfers: 44170, RSU Transfers: 34020
+	Item 1- V2V Transfers: 48780, RSU Transfers: 53990
+Overall data: 
+Required Total: 353600
+V2V Total: 92950, RSU Total: 88010, Remaining Total: 172710
+Total requests: 884, Satisfied: 67 Requests within 10 percent: 161
+RSU utilization: 80.7939%
+Score accuracy: 150.241%
+V2V Max: 164945
+V2V utilization: 56.3521%
+V2V missed: 17025 percent: 10.3216
+Average RSU load: 8.68467
+**************************************************************************************************************
+958.87user 0.08system 15:59.12elapsed 99%CPU (0avgtext+0avgdata 135896maxresident)k
+6672inputs+16outputs (0major+34638minor)pagefaults 0swaps

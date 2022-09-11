@@ -1,0 +1,4 @@
+printf "%s\n%s\n%s\n" "vehicledata/250vehicle" "rsucreation/50rsu.txt" "10" | /usr/bin/time ./a.out >> vrate10_rsu4/test0.txt 2>&1
+printf "%s\n%s\n%s\n" "vehicledata/500vehicle" "rsucreation/50rsu.txt" "10" | /usr/bin/time ./a.out >> vrate10_rsu4/test1.txt 2>&1
+printf "%s\n%s\n%s\n" "vehicledata/250vehicle" "rsucreation/50rsu.txt" "25" | /usr/bin/time ./a.out >> vrate10_rsu4/test2.txt 2>&1
+printf "%s\n%s\n%s\n" "vehicledata/500vehicle" "rsucreation/50rsu.txt" "25" | /usr/bin/time ./a.out >> vrate10_rsu4/test3.txt 2>&1

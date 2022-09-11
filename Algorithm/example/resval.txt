@@ -1,0 +1,210 @@
+T 0: 
+T 0: 
+T 17: (vehicle:1, score: 215), 
+Updated by vehicle: 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+T 17: 
+T 20: (vehicle:0, score: 35), (vehicle:2, score: 15), 
+Updated by vehicle: 0
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+T 34: (vehicle:1, score: 5), (vehicle:2, score: 0), (vehicle:3, score: 0), 
+Updated by vehicle: 1
+T 37: (vehicle:0, score: 0), (vehicle:2, score: 0), (vehicle:3, score: 0), 
+Updated by vehicle: 0
+2 loss
+2 loss
+2 loss
+2 loss
+2 loss
+2 loss
+3 loss
+3 loss
+3 loss
+3 loss
+3 loss
+3 loss
+3 loss
+3 loss
+3 loss
+3 loss
+T 50: (vehicle:3, score: 0), 
+Updated by vehicle: 3
+T 53: 
+T 54: 
+T 54: 
+RSU at time 0: 
+RSU at time 1: 
+RSU at time 2: 
+RSU at time 3: 
+RSU at time 4: 
+RSU at time 5: 
+RSU at time 6: 
+RSU at time 7: 
+RSU at time 8: 
+RSU at time 9: 
+RSU at time 10: 
+RSU at time 11: 
+RSU at time 12: 
+RSU at time 13: 
+RSU at time 14: 
+RSU at time 15: 
+RSU at time 16: 
+RSU at time 17: (vehicle:1, score: 215), 
+RSU at time 18: (vehicle:1, score: 215), 
+RSU at time 19: (vehicle:1, score: 215), 
+RSU at time 20: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 21: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 22: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 23: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 24: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 25: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 26: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 27: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 28: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 29: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 30: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 31: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 32: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 33: (vehicle:0, score: 35), (vehicle:1, score: 215), 
+RSU at time 34: (vehicle:0, score: 35), (vehicle:1, score: 5), 
+RSU at time 35: (vehicle:0, score: 35), (vehicle:1, score: 5), 
+RSU at time 36: (vehicle:0, score: 35), (vehicle:1, score: 5), 
+RSU at time 37: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 38: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 39: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 40: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 41: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 42: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 43: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 44: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 45: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 46: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 47: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 48: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 49: (vehicle:0, score: 0), (vehicle:1, score: 5), 
+RSU at time 50: (vehicle:0, score: 0), (vehicle:3, score: 0), 
+RSU at time 51: (vehicle:0, score: 0), (vehicle:3, score: 0), 
+RSU at time 52: (vehicle:0, score: 0), (vehicle:3, score: 0), 
+RSU at time 53: (vehicle:3, score: 0), 
+RSU at time 54: 
+RSU at time 55: 
+RSU at time 56: 
+RSU at time 57: 
+RSU at time 58: 
+RSU at time 59: 
+RSU at time 60: 
+RSU at time 61: 
+RSU at time 62: 
+RSU at time 63: 
+RSU at time 64: 
+RSU at time 65: 
+RSU at time 66: 
+RSU at time 67: 
+RSU at time 68: 
+RSU at time 69: 
+RSU at time 70: 
+RSU at time 71: 
+RSU at time 72: 
+RSU at time 73: 
+RSU at time 74: 
+RSU at time 75: 
+RSU at time 76: 
+RSU at time 77: 
+RSU at time 78: 
+RSU at time 79: 
+RSU at time 80: 
+RSU at time 81: 
+RSU at time 82: 
+RSU at time 83: 
+RSU at time 84: 
+RSU at time 85: 
+RSU at time 86: 
+RSU at time 87: 
+RSU at time 88: 
+RSU at time 89: 
+RSU at time 90: 
+RSU at time 91: 
+RSU at time 92: 
+RSU at time 93: 
+RSU at time 94: 
+RSU at time 95: 
+RSU at time 96: 
+RSU at time 97: 
+RSU at time 98: 
+RSU at time 99: 
+RSU at time 100: 
+330
+330
+130
+60
+Overall data: 
+Required Total: 1320
+V2V Total: 150, RSU Total: 700, Remaining Total: 470
+Total requests: 4, Satisfied: 2 Requests within 10 percent: 2
+RSU utilization: 89.7436%
+Score accuracy: 58.8235%
+V2V Max: 370
+V2V utilization: 40.5405%
+V2V missed: 5 percent: 3.33333
